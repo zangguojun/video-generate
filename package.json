@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "author": "buchiyu <lbuchiyu@gmail.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "antd-mobile": "^5.22.0",
+    "antd-mobile-icons": "^0.3.0",
+    "react": "^18.2.0",
+    "umi": "^4.0.20"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "prettier": "^2.7.1",
+    "prettier-plugin-organize-imports": "^3.1.1",
+    "prettier-plugin-packagejson": "^2.2.18"
+  }
+}

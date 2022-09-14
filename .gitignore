@@ -1,7 +1,8 @@
 /node_modules
+/.idea
 /.env.local
-/.umirc.local.ts
-/config/config.local.ts
+/.umirc.local.js
+/config/config.local.js
 /src/.umi
 /src/.umi-production
 /src/.umi-test
